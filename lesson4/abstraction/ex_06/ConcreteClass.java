@@ -2,7 +2,7 @@ package abstraction.ex_06;
 
 public class ConcreteClass extends AbstractClass {
 
-	String s = "First";
+	private String s = "First";
 	
 	public ConcreteClass() {
 		System.out.println("3 ConcreteClass()");
