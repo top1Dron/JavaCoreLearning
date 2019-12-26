@@ -1,4 +1,4 @@
-package interfaces_ex_04;
+package interfaces.ex_04;
 
 interface IInterface1{
 	void method1();

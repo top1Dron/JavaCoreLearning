@@ -1,4 +1,4 @@
-package interfaces_ex_02;
+package interfaces.ex_02;
 
 public class DerivedClass implements IInterface1, IInterface2 {
 

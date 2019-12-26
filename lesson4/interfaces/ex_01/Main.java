@@ -1,4 +1,4 @@
-package interfaces_ex_01;
+package interfaces.ex_01;
 
 public class Main {
 

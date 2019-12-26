@@ -1,4 +1,4 @@
-package interfaces_ex_03;
+package interfaces.ex_03;
 
 public interface IInterface2 {
 	
