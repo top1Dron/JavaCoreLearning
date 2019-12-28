@@ -9,7 +9,7 @@ abstract class BaseClass {
 	}
 }
 
-class DerivedClass extends BaseClass{
+class DerivedClass extends BaseClass {
 	public static void staticMethod() {
 		System.out.println("DerivedClass.staticMethod");
 	}
