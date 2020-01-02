@@ -24,6 +24,7 @@ public class Main {
 		MyClass.Nested.staticMethodFromNested();
 		System.out.println(MyClass.Nested.number);
 		
+		//need to import this class in file header
 		MyClass.Nested instance = new Nested();
 		
 		instance.say();
