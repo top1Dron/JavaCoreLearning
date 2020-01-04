@@ -2,7 +2,6 @@ package ex_10_exceptions;
 
 public class Main {
 
-	@SuppressWarnings("finally")
 	public static void main(String[] args) {
 		try {
 			try {

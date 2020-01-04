@@ -1,3 +1,4 @@
+
 package ex_09_exceptions;
 
 class ClassWithException {
