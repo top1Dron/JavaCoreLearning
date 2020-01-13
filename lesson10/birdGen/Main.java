@@ -9,7 +9,7 @@ public class Main {
 		l.display();
 		
 		Logic<Penguin> l1 = new Logic<>(p);
-//		l1.display();
+		l1.display();
 		Logic.weightCompare(l, l1);
 	}
 
